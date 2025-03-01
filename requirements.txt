@@ -1,0 +1,9 @@
+streamlit>=1.30.0  # Latest stable version
+pandas>=2.0.0  # For better Parquet handling
+plotly>=5.20.0  # Latest for rich visualizations
+gdown>=5.0.0  # For downloading large files
+pyarrow>=14.0.0  # Efficient Parquet read/write
+numpy>=1.26.0  # Core numerical computing
+altair>=5.1.0  # Declarative statistical visualization
+scikit-learn>=1.4.0  # Machine learning models
+statsmodels>=0.14.0  # Statistical modeling
